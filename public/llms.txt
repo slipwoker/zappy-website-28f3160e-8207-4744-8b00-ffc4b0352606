@@ -1,0 +1,79 @@
+# LILY BOUTIQUE — Generative Engine Optimization Map
+
+> A service-oriented business website focused on customer satisfaction and transparent pricing display. The site aims to showcase services clearly alongside pricing options, helping potential customers make informed decisions.
+
+---
+
+## Pages
+
+### בית
+https://lily-boutique-28f3160e.zappy5.app
+מחפשת בית מושלם או השקעה חכמה בנדלן? LILY BOUTIQUE מציעה שירותי תיווך, ייעוץ וליווי אישי עם שקיפות מלאה. כנסי עכשיו לגלות את ההזדמנות שלך!
+
+### שירותים ומחירים
+https://lily-boutique-28f3160e.zappy5.app/services
+גלי את כל שירותי עיצוב הפנים, הלבשת בתים וייעוץ ההשקעות שלנו, עם מחירים ברורים וגלויים לעין. LILY BOUTIQUE מזמינה אותך לבחור בביטחון ולהתחיל ליצור את הבית שרצית.
+
+### אודות
+https://lily-boutique-28f3160e.zappy5.app/about
+הכירי את LILY BOUTIQUE – מומחית נדלן, יזמות ושיווק עם תשוקה לעיצוב פנים ולתיירות. אנחנו כאן כדי להפוך כל עסקה לחוויה אישית ומקצועית. בואי לשמוע את הסיפור שלנו!
+
+### צור קשר
+https://lily-boutique-28f3160e.zappy5.app/contact
+יש לך שאלה על נדלן, עיצוב פנים או השקעה? צרי קשר עם LILY BOUTIQUE עוד היום לקבלת ייעוץ אישי, הצעת מחיר מותאמת וליווי צמוד להגשמת החזון שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://lily-boutique-28f3160e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lily-boutique-28f3160e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lily-boutique-28f3160e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://lily-boutique-28f3160e.zappy5.app/contact
+- Endpoint: https://lily-boutique-28f3160e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LILY BOUTIQUE
+A service-oriented business website focused on customer satisfaction and transparent pricing display. The site aims to showcase services clearly alongside pricing options, helping potential customers make informed decisions.
+
+## Target Audience
+- לקוחות בוטיק
+- מחפשי נדלן
+- חובבי עיצוב
+- תיירות ונופש
+
+## Industry
+Service Business
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lily-boutique-28f3160e.zappy5.app/sitemap.xml
+- Robots: https://lily-boutique-28f3160e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lily-boutique-28f3160e.zappy5.app/llms-full.txt
