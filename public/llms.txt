@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://lily-boutique-28f3160e.zappy5.app
+https://example.com
 מחפשת בית מושלם או השקעה חכמה בנדלן? LILY BOUTIQUE מציעה שירותי תיווך, ייעוץ וליווי אישי עם שקיפות מלאה. כנסי עכשיו לגלות את ההזדמנות שלך!
 
 ### שירותים ומחירים
-https://lily-boutique-28f3160e.zappy5.app/services
+https://example.com/services
 גלי את כל שירותי עיצוב הפנים, הלבשת בתים וייעוץ ההשקעות שלנו, עם מחירים ברורים וגלויים לעין. LILY BOUTIQUE מזמינה אותך לבחור בביטחון ולהתחיל ליצור את הבית שרצית.
 
 ### אודות
-https://lily-boutique-28f3160e.zappy5.app/about
+https://example.com/about
 הכירי את LILY BOUTIQUE – מומחית נדלן, יזמות ושיווק עם תשוקה לעיצוב פנים ולתיירות. אנחנו כאן כדי להפוך כל עסקה לחוויה אישית ומקצועית. בואי לשמוע את הסיפור שלנו!
 
 ### צור קשר
-https://lily-boutique-28f3160e.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על נדלן, עיצוב פנים או השקעה? צרי קשר עם LILY BOUTIQUE עוד היום לקבלת ייעוץ אישי, הצעת מחיר מותאמת וליווי צמוד להגשמת החזון שלך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://lily-boutique-28f3160e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://lily-boutique-28f3160e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://lily-boutique-28f3160e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://lily-boutique-28f3160e.zappy5.app/contact
-- Endpoint: https://lily-boutique-28f3160e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Service Business
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://lily-boutique-28f3160e.zappy5.app/sitemap.xml
-- Robots: https://lily-boutique-28f3160e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://lily-boutique-28f3160e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
